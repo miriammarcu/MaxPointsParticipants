@@ -1,0 +1,7 @@
+44 lapte aliment 144
+1 paine aliment 100
+456 laptop it 20
+
+1111 portocala aliment 12
+1 prod1 cat1 10
+2 prod2 cat2 20
